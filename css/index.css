@@ -1,0 +1,23 @@
+body
+{
+	font-family: tahoma;
+	font-size: 35px;
+	padding: 100px 40px 0px 40px;
+}
+h1{margin-bottom: 30px;font color: red;
+
+}
+p{ margin-top: 10px;}
+
+p.one{
+	background-color: #ffdd00;font-size:34px;
+}
+p.one span{
+	background-color: red;
+}
+p.two{
+	background-color: #ffdd00;
+}
+p.two{
+
+}
